@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collictables
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 922198117
+    locked: 0
+  - name: Stones
+    uniqueID: 932703657
+    locked: 0
+  - name: Decoration
+    uniqueID: 3047889859
+    locked: 0
+  - name: Collectible
+    uniqueID: 4204044597
+    locked: 0
+  - name: Player
+    uniqueID: 2537082965
+    locked: 0
+  - name: Trees
+    uniqueID: 1257298877
+    locked: 0
